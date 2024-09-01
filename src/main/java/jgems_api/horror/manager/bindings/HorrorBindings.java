@@ -1,35 +1,4 @@
-/*
- * *
- *  * @author alfabouh
- *  * @since 2024
- *  * @link https://github.com/alfabouh/JavaGems3D
- *  *
- *  * This software is provided 'as-is', without any express or implied warranty.
- *  * In no event will the authors be held liable for any damages arising from the use of this software.
- *
- */
 
-/*
- * *
- *  * @author alfabouh
- *  * @since 2024
- *  * @link https://github.com/alfabouh/JavaGems3D
- *  *
- *  * This software is provided 'as-is', without any express or implied warranty.
- *  * In no event will the authors be held liable for any damages arising from the use of this software.
- *
- */
-
-/*
- * *
- *  * @author alfabouh
- *  * @since 2024
- *  * @link https://github.com/alfabouh/JavaGems3D
- *  *
- *  * This software is provided 'as-is', without any express or implied warranty.
- *  * In no event will the authors be held liable for any damages arising from the use of this software.
- *
- */
 
 package jgems_api.horror.manager.bindings;
 
@@ -133,9 +102,9 @@ public class HorrorBindings extends BindingManager {
             this.addBinding(this.keyBlock1);
             this.addBinding(this.keyBlock2);
             this.addBinding(this.keyBlock3);
-            this.addBinding(this.keyF2);
         }
 
+        this.addBinding(this.keyF2);
         this.addBinding(this.keyA);
         this.addBinding(this.keyD);
         this.addBinding(this.keyW);
